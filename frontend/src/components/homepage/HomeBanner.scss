@@ -1,0 +1,33 @@
+.bannerDiv {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  gap: 1rem;
+
+  .banner {
+    object-fit: contain;
+    max-height: auto;
+    width: 100%;
+    text-align: center;
+  }
+
+  .banner img {
+    max-height: 30rem;
+  }
+
+  .help-center .sidebar-img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .bannerDiv {
+   display: block;
+  }
+
+  .help-center {
+    display: none;
+  }
+}

@@ -9,13 +9,13 @@ Imagine Buy is an e-commerce web app built on the MERN stack i.e. M - MongoDB, E
 - Type the following command in your terminal to clone this repository
 
 ```
-https://github.com/Edu58/Junia-Eccomerce.git
+https://github.com/Victoric3/imagine-buy
 ```
 
 If you are using SSH, use the following command
 
 ```
-git@github.com:Edu58/Junia-Eccomerce.git
+git@github.com:Victoric3/imagine-buy.git
 ```
 
 When you run the commands successfully, you should have a local version of this repository.

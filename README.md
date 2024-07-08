@@ -44,8 +44,8 @@ To run the web app, navigate inside the frontend folder and run `npm run dev` to
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Edu58/Junia-Eccomerce.git
-   cd Junia-Eccomerce
+   git clone https://github.com/Victoric3/imagine-buy
+   cd imagine-buy
    ```
 
 2. **Install Dependencies:**
@@ -100,18 +100,17 @@ To run the web app, navigate inside the frontend folder and run `npm run dev` to
 ## Known Bugs
 Missing payments. Working on it.
 
-Feel free to submit a pull request or reach out at edumuriithi58@gmail.com.
+Feel free to submit a pull request or reach out at chukwujiobivictoric@gmail.com.
 
 ## Contributing
 
-Feel free to submit a pull request or reach out at edumuriithi58@gmail.com.
+Feel free to submit a pull request or reach out at chukwujiobivictoric@gmail.com.
 
 ## Authors
 
-* **Edwin Karimi** - *Initial work* - [Imagine Buy](https://github.com/Edu58/Junia-Eccomerce)
+* **Chukwujiobi victor** - *Initial work* - [Imagine Buy](https://github.com/Victoric3/imagine-buy)
 
-- Twitter - [@GISDevEd](https://twitter.com/GISDevEd)
-- Linkedin - [edwin-karimi](https://www.linkedin.com/in/edwin-karimi/)
+- Linkedin - [chukwujiobi victor](https://www.linkedin.com/in/chukwujiobiv/)
 
 ## License
 

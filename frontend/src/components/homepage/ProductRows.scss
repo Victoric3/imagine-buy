@@ -1,0 +1,27 @@
+.top-selling {
+  padding: 1rem;
+
+  .products {
+    width: 100%;
+    overflow-x: scroll;
+
+    .product {
+      object-fit: contain;
+      width: 12rem;
+      height: 12rem;
+
+      img {
+        max-height: 8rem;
+        max-width: 8rem;
+      }
+
+      .title {
+        white-space: nowrap;
+      }
+
+      :not(:last-child) {
+        margin: 0.5rem 1rem;
+      }
+    }
+  }
+}
